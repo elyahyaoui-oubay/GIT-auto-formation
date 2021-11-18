@@ -6,4 +6,5 @@
 # Git checkout
 # Git add . 
 # Git commit -m
-# Git push 
+# Git push
+# Git pull  
